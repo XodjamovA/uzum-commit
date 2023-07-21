@@ -13,7 +13,7 @@ function Item() {
                     <p className="text-sm">Подсолнечное масло Sofia, рафинированное и...</p>
 
                     <div className="text-xs flex items-center gap-2 text-[gray]">
-                        <img src="" alt="" />
+                        <img src="./public/icons/3.png"  className="w-[20px]" alt="" />
                         <p>4.9</p>
                         <p>(550 оценок)</p>
                     </div>
